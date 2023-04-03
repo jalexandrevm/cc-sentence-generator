@@ -20,3 +20,7 @@ function generateRandomSentence() {
 
     return sentence;
 }
+
+console.log(generateRandomSentence());
+console.log(generateRandomSentence());
+console.log(generateRandomSentence());
