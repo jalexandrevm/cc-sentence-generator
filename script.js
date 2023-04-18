@@ -4,7 +4,7 @@ function getRandomNumber(num) {
 }
 
 // arrays with sentence parts
-const subjects = [{ BR: 'O cachorro', EN: 'The dog' }, { BR: 'A tartaruga', EN: 'The turtle' }, { BR: 'O coelho', EN: 'O coelho' }, { BR: 'O elefante', EN: 'The elephant' }, { BR: 'A girafa', EN: 'The giraffe' }, { BR: 'O leão', EN: 'The lion' }, { BR: 'A arara', EN: 'The macaw' },];
+const subjects = [{ BR: 'O cachorro', EN: 'The dog' }, { BR: 'A tartaruga', EN: 'The turtle' }, { BR: 'O coelho', EN: 'The rabbit' }, { BR: 'O elefante', EN: 'The elephant' }, { BR: 'A girafa', EN: 'The giraffe' }, { BR: 'O leão', EN: 'The lion' }, { BR: 'A arara', EN: 'The macaw' },];
 // const subjects = ['O cachorro', 'A tartaruga', 'O coelho', 'O elefante', 'A girafa', 'O leão', 'A arara'];
 const actions = [{ BR: 'correu', EN: 'ran' }, { BR: 'pulou', EN: 'jumped' }, { BR: 'dormiu', EN: 'slept' }, { BR: 'comeu', EN: 'ate' }, { BR: 'cantou', EN: 'sang' }]
 // const actions = ['correu', 'pulou', 'dormiu', 'comeu', 'cantou'];
